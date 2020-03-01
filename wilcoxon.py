@@ -1,6 +1,5 @@
 #! python3 
-# wilcoxon.py - Calculate Wilcoxon signed rank test for 
-# nonparametric paired samples
+# wilcoxon.py - Conduct a Wilcoxon signed rank test for nonparametric paired samples
 import scipy
 from scipy import stats
 pre = []
